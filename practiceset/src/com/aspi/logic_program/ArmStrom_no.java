@@ -11,7 +11,7 @@ public class ArmStrom_no
 			t1=t1/10;
 			 len =len+1;
 		  }
-		  System.out.println("length "+len);
+		  System.out.println("length "+len);//harish
 		  
 		  int t2=num;
 		  int arm=0;
